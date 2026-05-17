@@ -1,0 +1,11 @@
+instrument,entry_time,exit_time,direction,entry_price,exit_price,quantity,pnl,commission,notes
+MNQ,2026-04-16 09:30:00,2026-04-16 09:45:00,long,18500.25,18520.75,3,514.50,4.50,Zone bounce off MM50 with VWAP confluence
+MNQ,2026-04-16 10:15:00,2026-04-16 10:20:00,short,18530.00,18527.00,3,75.00,4.50,Quick VWAP fade, took partial then ran
+MNQ,2026-04-16 11:45:00,2026-04-16 11:48:00,long,18540.50,18536.50,3,-100.00,4.50,Chased entry above zone bad
+MNQ,2026-04-17 09:35:00,2026-04-17 10:05:00,short,18545.00,18510.00,3,875.00,4.50,Clean reversal at overnight high
+MNQ,2026-04-17 13:20:00,2026-04-17 13:25:00,long,18495.25,18497.75,3,62.50,4.50,Scalp at MM200 weak entry
+MNQ,2026-04-18 09:45:00,2026-04-18 10:30:00,long,18465.00,18510.00,3,1125.00,4.50,Best trade of week patient zone entry trailed MM200
+MNQ,2026-04-18 14:00:00,2026-04-18 14:03:00,short,18515.50,18519.00,3,-87.50,4.50,Counter trend mistake
+MNQ,2026-04-22 09:32:00,2026-04-22 09:50:00,long,18480.00,18495.00,3,375.00,4.50,Zone bounce textbook
+MNQ,2026-04-22 11:10:00,2026-04-22 11:15:00,short,18505.00,18502.00,3,75.00,4.50,VWAP rejection
+MNQ,2026-04-23 10:00:00,2026-04-23 10:30:00,long,18520.00,18555.00,3,875.00,4.50,Breakout with strong volume

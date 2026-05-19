@@ -25,3 +25,4 @@ venv/
 .idea/
 *.swp
 .DS_Store
+desktop.ini

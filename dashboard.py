@@ -149,7 +149,7 @@ st.sidebar.markdown(
     "**Acerca de**\n\n"
     "Sistema de coaching de trading impulsado por Claude (Anthropic).\n\n"
     "Cada trade se clasifica con tool-use estructurado y los resúmenes diarios "
-    "se generan en tono brotherly."
+    "se generan en tono profesional."
 )
 
 # Apply filters

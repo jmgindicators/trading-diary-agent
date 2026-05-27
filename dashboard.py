@@ -34,12 +34,16 @@ st.markdown("""
     [data-testid="stMetricValue"] {
         font-size: 28px;
         font-weight: 700;
+        color: #e8eaf0;
     }
     [data-testid="stMetricLabel"] {
         font-size: 12px;
         color: #8b9bb4;
         text-transform: uppercase;
         letter-spacing: 0.5px;
+    }
+    [data-testid="stMetricDelta"] {
+        color: #cbd5e1;
     }
     h1 { color: #e8eaf0; padding-bottom: 0px; }
     h2 { color: #e8eaf0; border-bottom: 1px solid #2a3140; padding-bottom: 8px; margin-top: 32px; }

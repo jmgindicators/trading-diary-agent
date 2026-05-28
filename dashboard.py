@@ -186,9 +186,9 @@ best_trade = filtered["net_pnl"].max()
 worst_trade = filtered["net_pnl"].min()
 
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("P&L Neto", f"${total_pnl:+,.2f}", delta=f"{total_trades} trades")
-col2.metric("Win Rate", f"{win_rate:.1f}%", delta=f"{wins}W / {losses}L")
-col3.metric("Calidad Media IA", f"{avg_quality:.1f}/5", delta="Análisis Claude")
+col1.metric("P&L Neto", f"${total_pnl:+,.2f}", delta=f"{total_trades} trades", delta_color="off") 
+col2.metric("Win Rate", f"{win_rate:.1f}%", delta=f"{wins}W / {losses}L", delta_color="off")
+col3.metric("Calidad Media IA", f"{avg_quality:.1f}/5", delta="Análisis Claude", delta_color="off")
 col4.metric(
     "Mejor / Peor Trade",
     f"${best_trade:+,.0f}",
